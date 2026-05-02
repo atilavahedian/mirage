@@ -4,7 +4,7 @@ Mirage is a pure-PyTorch research lab for a small but serious world-model thesis
 
 > A persistent agent should learn a compact internal simulator, dream futures inside it, and use those dreams to improve real-world control.
 
-The v1 environment is a continuous-control rocket lander. Mirage learns from low-dimensional physics state for reliability, but renders real and imagined rollouts so the learning process is visible. It is not an AGI claim. It is a falsifiable local experiment in continual model-based reinforcement learning.
+The v1 environment is a continuous-control rocket lander. Mirage learns from low-dimensional physics state for reliability, but renders real and imagined rollouts so the learning process is visible. It is a falsifiable local experiment in continual model-based reinforcement learning.
 
 ## What It Builds
 
